@@ -1,5 +1,8 @@
 # Word-Doc-Embedding
-### Train and evaluate Word2Vec, FastText and Doc2Vec embedding using Gensim
+### Train and evaluate embedding using Gensim: 
+ - Word2Vec
+ - FastText
+ - Doc2Vec
 
 References:
 - [Gensim API](https://radimrehurek.com/gensim/index.html)

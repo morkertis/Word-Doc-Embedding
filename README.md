@@ -4,7 +4,9 @@
 #### - FastText
 #### - Doc2Vec
 
-References:
+<br>
+
+#### References:
 - [Gensim API](https://radimrehurek.com/gensim/index.html)
 - [Word2Vec -1- Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf) 
 - [Word2Vec -2- Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) 

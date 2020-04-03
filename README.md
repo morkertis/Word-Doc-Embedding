@@ -3,7 +3,7 @@
 #### - Word2Vec
 #### - FastText
 #### - Doc2Vec
-
+#### - TF-IDF
 <br>
 
 #### References:
@@ -13,7 +13,7 @@
 - [Doc2Vec - Distributed Representations of Sentences and Documents](https://cs.stanford.edu/~quocle/paragraph_vector.pdf)
 - [FastText - Enriching Word Vectors with Subword Information](https://arxiv.org/pdf/1607.04606.pdf)
 - [Download pretrained vectors](https://fasttext.cc/docs/en/pretrained-vectors.html)
-
+- [sklearn TfidfVectorizer](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html)
 
 
 
